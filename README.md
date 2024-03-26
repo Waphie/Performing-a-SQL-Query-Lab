@@ -12,7 +12,7 @@ The objective of the Perform a SQL query lab is to provide participants with han
 - Analysis of complex datasets
 - Effective interaction with databases using SQL
 
-# Tool
+# Tools
 
 - SQL database management system (DBMS)
 - SQL client or interface for executing queries (MySQL Workbench,  SQL Server Management Studio)
